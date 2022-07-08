@@ -1,0 +1,205 @@
+[
+	{
+		"Type": "Movie",
+		"Title": "Kiki�s Delivery Service",
+		"Year of Release": "1989",
+		"Director": "Hayao Miyazaki",
+		"Genre": "Fantasy",
+		"IMDB Rating": "7.8"
+	},
+	{
+		"Type": "Movie",
+		"Title": "Knives Out",
+		"Year of Release": "2019",
+		"Director": "Rian Johnson",
+		"Genre": "Mystery",
+		"IMDB Rating": "7.9"
+	},
+	{
+		"Type": "Movie",
+		"Title": "Green Book",
+		"Year of Release": "2018",
+		"Director": "Peter Farrelly",
+		"Genre": "Drama",
+		"IMDB Rating": "8.2"
+	},
+	{
+		"Type": "Movie",
+		"Title": "Only The Brave",
+		"Year of Release": "2017",
+		"Director": "Joseph Kosinski",
+		"Genre": "Drama",
+		"IMDB Rating": "7.6"
+	},
+	{
+		"Type": "Movie",
+		"Title": "Singin� In The Rain",
+		"Year of Release": "1952",
+		"Director": "Stanley Donen",
+		"Genre": "Musical",
+		"IMDB Rating": "8.3"
+	},
+	{
+		"Type": "Movie",
+		"Title": "The Apartment",
+		"Year of Release": "1960",
+		"Director": "Billy Wilder",
+		"Genre": "Comedy",
+		"IMDB Rating": "8.3"
+	},
+	{
+		"Type": "Movie",
+		"Title": "The Book Thief",
+		"Year of Release": "2013",
+		"Director": "Brian Percival",
+		"Genre": "Drama",
+		"IMDB Rating": "7.5"
+	},
+	{
+		"Type": "Movie",
+		"Title": "Summer Stock",
+		"Year of Release": "1950",
+		"Director": "Charles Walters",
+		"Genre": "Musical",
+		"IMDB Rating": "7.1"
+	},
+	{
+		"Type": "Movie",
+		"Title": "The Terminal",
+		"Year of Release": "2004",
+		"Director": "Steven Spielberg",
+		"Genre": "Drama",
+		"IMDB Rating": "7.4"
+	},
+	{
+		"Type": "Movie",
+		"Title": "The Trouble with Angels",
+		"Year of Release": "1966",
+		"Director": "Ida Lupino",
+		"Genre": "Comedy",
+		"IMDB Rating": "7.3"
+	},
+	{
+		"Type": "Movie",
+		"Title": "Whisper of the Heart",
+		"Year of Release": "1995",
+		"Director": "Yoshifumi Kondo",
+		"Genre": "Romance",
+		"IMDB Rating": "7.9"
+	},
+	{
+		"Type": "Movie",
+		"Title": "Lara Croft: Tomb Raider",
+		"Year of Release": "2001",
+		"Director": "Simon West",
+		"Genre": "Action",
+		"IMDB Rating": "5.7"
+	},
+	{
+		"Type": "Movie",
+		"Title": "Taken",
+		"Year of Release": "2008",
+		"Director": "Pierre Morel",
+		"Genre": "Action",
+		"IMDB Rating": "7.8"
+	},
+	{
+		"Type": "Movie",
+		"Title": "Miracle In Cell No. 7",
+		"Year of Release": "2019",
+		"Director": "Mehmet Ada Oztekin",
+		"Genre": "Drama",
+		"IMDB Rating": "8.2"
+	},
+	{
+		"Type": "TV Show",
+		"Title": "Crash Landing On You",
+		"Year of Release": "2019",
+		"Director": "Lee Jung-hyo",
+		"Genre": "Romance",
+		"IMDB Rating": "8.8"
+	},
+	{
+		"Type": "TV Show",
+		"Title": "Talking Heads",
+		"Year of Release": "2020",
+		"Director": "Alan Bennett",
+		"Genre": "Drama",
+		"IMDB Rating": "7.9"
+	},
+	{
+		"Type": "TV Show",
+		"Title": "Law & Order",
+		"Year of Release": "1990",
+		"Director": "Dick Wolf",
+		"Genre": "Drama",
+		"IMDB Rating": "7.8"
+	},
+	{
+		"Type": "TV Show",
+		"Title": "Money Heist",
+		"Year of Release": "2017",
+		"Director": "Alex Pina",
+		"Genre": "Thriller",
+		"IMDB Rating": "8.3"
+	},
+	{
+		"Type": "TV Show",
+		"Title": "Marvel�s The Punisher",
+		"Year of Release": "2017",
+		"Director": "Steve Lightfoot",
+		"Genre": "Action",
+		"IMDB Rating": "8.5"
+	},
+	{
+		"Type": "TV Show",
+		"Title": "Sons of Anarchy",
+		"Year of Release": "2008",
+		"Director": "Kurt Sutter",
+		"Genre": "Drama",
+		"IMDB Rating": "8.6"
+	},
+	{
+		"Type": "TV Show",
+		"Title": "The Wire",
+		"Year of Release": "2002",
+		"Director": "David Simon",
+		"Genre": "Drama",
+		"IMDB Rating": "9.3"
+	},
+	{
+		"Type": "TV Show",
+		"Title": "The Office",
+		"Year of Release": "2005",
+		"Director": "Greg Daniels",
+		"Genre": "Comedy",
+		"IMDB Rating": "9"
+	},
+	{
+		"Type": "TV Show",
+		"Title": "The Mentalist",
+		"Year of Release": "2008",
+		"Director": "Bruno Heller",
+		"Genre": "Crime",
+		"IMDB Rating": "8.2"
+	},
+	{
+		"Type": "TV Show",
+		"Title": "Arcane",
+		"Year of Release": "2021",
+		"Director": "Pascal Charrue",
+		"Genre": "Action",
+		"IMDB Rating": "9.2"
+	},
+	{
+		"Type": "TV Show",
+		"Title": "The Morning Show",
+		"Year of Release": "2019",
+		"Director": "Jay Carson",
+		"Genre": "Drama",
+		"IMDB Rating": "8.3"
+	},
+	{
+		"Type": ""
+	}
+]
